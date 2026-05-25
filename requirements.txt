@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+requests
+geopy
+plotly
+scikit-learn
